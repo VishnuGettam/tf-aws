@@ -1,7 +1,7 @@
 # tf-aws
 terraform project to build infra building in aws provider
 
-''' 
+``` text 
 tf-aws/
 ├── bootstrap/                  # one-time: creates the S3 state bucket (+ KMS key)
 │   ├── main.tf
@@ -29,4 +29,4 @@ tf-aws/
 ├── .pre-commit-config.yaml     # fmt, validate, tflint, checkov
 └── README.md
 
-'''
+``` text
