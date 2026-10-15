@@ -28,5 +28,4 @@ tf-aws/
 ├── .gitignore
 ├── .pre-commit-config.yaml     # fmt, validate, tflint, checkov
 └── README.md
-
 ``` text
